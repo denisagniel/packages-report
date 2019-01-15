@@ -1,4 +1,7 @@
-## deja vu from earlier!
+#' ---
+#' output: github_document
+#' ---
+
 library(tidyverse)
 library(here)
 ## create a data frame of your installed packages
