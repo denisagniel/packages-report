@@ -20,3 +20,5 @@ write_csv(installed_pkgs, here('data', 'installed-packages.csv'))
 ## YES overwrite the file that is there now (or delete it first)
 ## that's a old result from me (Jenny)
 ## it an example of what yours should look like and where it should go
+
+## this is remote awesome work.
